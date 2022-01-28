@@ -1,0 +1,52 @@
+h1 {
+    color:black;
+    font-size:15px ;
+    width:50%;
+  
+   
+}
+h2 {
+    color:rgb(240, 16, 16);
+    font-size: 30PX;
+    
+}
+h3 {
+    color: seagreen;
+    font-size: 15px;
+    margin-left: 40px;
+    
+}
+h4 {
+    font-size: xx-large;
+    width: 18%;
+    color:whitesmoke;
+    margin-left: 40px;
+    background-color: transparent;
+
+}
+
+img {
+    height: 400px;
+    margin-left: 40px;
+    
+   
+}
+
+p {
+    margin-left: 40px;
+    
+    
+    
+   
+}
+a {
+    margin-left: 40px;
+    font-size: 20px;
+    color:blue;
+   
+   
+   
+}
+
+
+
